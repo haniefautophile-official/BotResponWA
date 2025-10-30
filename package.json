@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "baileys": "github:WhiskeySockets/Baileys",
-    "qrcode-terminal": "^0.12.0"
-  }
-}
